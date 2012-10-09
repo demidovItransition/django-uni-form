@@ -6,6 +6,7 @@ class_converter = {
     "textinput": "textinput textInput",
     "fileinput": "fileinput fileUpload",
     "passwordinput": "textinput textInput",
+    "select": "select selectInput"
 }
 
 @register.filter

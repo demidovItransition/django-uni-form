@@ -22,3 +22,6 @@ tempfile
 # coverage 
 .coverage
 _build
+
+#environment
+.idea/*
